@@ -1,0 +1,10 @@
+C:\Users\Jose\Desktop\TestRFID\TestRFID\bin\Debug\TestRFID.exe.config
+C:\Users\Jose\Desktop\TestRFID\TestRFID\bin\Debug\TestRFID.exe
+C:\Users\Jose\Desktop\TestRFID\TestRFID\bin\Debug\TestRFID.pdb
+C:\Users\Jose\Desktop\TestRFID\TestRFID\obj\Debug\TestRFID.csprojAssemblyReference.cache
+C:\Users\Jose\Desktop\TestRFID\TestRFID\obj\Debug\TestRFID.Form1.resources
+C:\Users\Jose\Desktop\TestRFID\TestRFID\obj\Debug\TestRFID.Properties.Resources.resources
+C:\Users\Jose\Desktop\TestRFID\TestRFID\obj\Debug\TestRFID.csproj.GenerateResource.cache
+C:\Users\Jose\Desktop\TestRFID\TestRFID\obj\Debug\TestRFID.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\TestRFID\TestRFID\obj\Debug\TestRFID.exe
+C:\Users\Jose\Desktop\TestRFID\TestRFID\obj\Debug\TestRFID.pdb
